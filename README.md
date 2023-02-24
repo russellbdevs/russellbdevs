@@ -1,19 +1,19 @@
 ## Hi there,
 
-I'm Md. Imtiaz Ahmed, Front End Developer & WordPress Developer from Bangladesh. I spend most of my time coding outstanding projects. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack works, I have worked with creative teams, which involves daily stand-ups and communications.
+I'm Russell Imtiaz, Front End Developer & WordPress Developer from Bangladesh. I spend most of my time coding outstanding projects. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack works, I have worked with creative teams, which involves daily stand-ups and communications.
 
 #### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=bdweeby.bdweeby)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=russellbdevs.russellbdevs)
 
 :coffee: &emsp;Connect with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/bdweeby) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdweeby) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bd_weeby) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bdweeby@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/russellbdevs) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russellbdevs) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/bd_weeby) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:russellbdevs@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 🤔 &emsp;I’m looking for people who can help me with programming knowledge.<br/>
-:e-mail: &emsp;How to reach me: bdweeby@gmail.com<br/>
-📱 &emsp;Contact number: +880 1517 828922
+:e-mail: &emsp;How to reach me: russellbdevs@gmail.com<br/>
+📱 &emsp;Contact number: +880 1634 336000
 
 #### Languages and Tools:
 
@@ -21,4 +21,4 @@ I'm Md. Imtiaz Ahmed, Front End Developer & WordPress Developer from Bangladesh.
 
 #### Github Stats
 
-![bdweeby's github stats](https://github-readme-stats.vercel.app/api?username=bd-weeby&count_private=true&theme=tokyonight&hide=contribs,prs)
+![russellbdevs's github stats](https://github-readme-stats.vercel.app/api?username=russellbdevs&count_private=true&theme=tokyonight&hide=contribs,prs)
